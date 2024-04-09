@@ -1,0 +1,50 @@
+Timeout
+Optimization finished. Results: 
+Optimization performance:
+  Execution time: 15000 ms
+  Exit condition: Optimization timed out.
+  Dominated solutions: 1
+  Pareto solutions: 11
+Pareto front values exported to .csv file.
+
+
+Timeout
+Optimization finished. Results: 
+Optimization performance:
+  Execution time: 15000 ms
+  Exit condition: Optimization timed out.
+  Dominated solutions: 0
+  Pareto solutions: 15
+Pareto front values exported to .csv file.
+
+
+Timeout
+Optimization finished. Results: 
+Optimization performance:
+  Execution time: 15000 ms
+  Exit condition: Optimization timed out.
+  Dominated solutions: 1
+  Pareto solutions: 15
+Pareto front values exported to .csv file.
+
+
+Timeout
+Optimization finished. Results: 
+Optimization performance:
+  Execution time: 15000 ms
+  Exit condition: Optimization timed out.
+  Dominated solutions: 1
+  Pareto solutions: 17
+Pareto front values exported to .csv file.
+
+
+Timeout
+Optimization finished. Results: 
+Optimization performance:
+  Execution time: 15000 ms
+  Exit condition: Optimization timed out.
+  Dominated solutions: 1
+  Pareto solutions: 17
+Pareto front values exported to .csv file.
+
+

@@ -1,7 +1,7 @@
 from utils import *
 
 # Instance configuration
-num_wells = 50
+num_wells = 50 # Requires params_n.csv and distances_n.csv files replacing n with number of wells
 production_gross = 1000
 gross_tolerance = 25
 

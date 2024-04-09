@@ -1,0 +1,300 @@
+Reading file data/params_50.csv... File parsed successfully.
+Reading file data/distances_50.csv... File parsed successfully.
+Building system model... done.
+Model configuration parameters:
+  Well count: 50
+  Initial production loss: 399.71 m³/day
+  Initial production gross: 1288.24 m³/day
+  Target gross: 1000 m³/day
+  Tolerance: 10 m³/day
+Optimization parameters: 
+  timeout: 15000 ms
+  objective fc. max calls: 100000
+Starting optimizer method: Random Search... Iterations started.
+
+New non-dominated solution at iteration 23: 
+  production loss = 309.997 m³/day
+  travel cost = 32508.2
+New non-dominated solution at iteration 24: 
+  production loss = 309.09 m³/day
+  travel cost = 38367.2
+New non-dominated solution at iteration 25: 
+  production loss = 308.389 m³/day
+  travel cost = 41661.7
+New non-dominated solution at iteration 26: 
+  production loss = 308.218 m³/day
+  travel cost = 44335.4
+New non-dominated solution at iteration 27: 
+  production loss = 308.16 m³/day
+  travel cost = 46369.4
+New non-dominated solution at iteration 28: 
+  production loss = 308.073 m³/day
+  travel cost = 46369.4
+New non-dominated solution at iteration 29: 
+  production loss = 307.931 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 30: 
+  production loss = 307.821 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 31: 
+  production loss = 307.812 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 32: 
+  production loss = 307.746 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 33: 
+  production loss = 307.718 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 34: 
+  production loss = 307.687 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 35: 
+  production loss = 307.673 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 36: 
+  production loss = 307.65 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 37: 
+  production loss = 307.646 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 38: 
+  production loss = 307.636 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 39: 
+  production loss = 307.615 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 40: 
+  production loss = 307.603 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 41: 
+  production loss = 307.59 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 42: 
+  production loss = 307.588 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 43: 
+  production loss = 307.585 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 44: 
+  production loss = 307.58 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 45: 
+  production loss = 307.577 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 46: 
+  production loss = 307.574 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 47: 
+  production loss = 307.571 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 48: 
+  production loss = 307.569 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 49: 
+  production loss = 307.569 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 50: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 51: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 52: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 53: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 54: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 55: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 56: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 57: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 58: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 59: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 60: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 61: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 62: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 63: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 64: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 65: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 66: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 67: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 68: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 69: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 70: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 71: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 72: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 73: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 74: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 75: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 76: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 77: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 78: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 79: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 80: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 81: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 82: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 83: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 84: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 85: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 86: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 87: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 88: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 89: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 90: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 91: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 92: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 93: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 95: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 96: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 97: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 98: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 99: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 100: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 101: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 102: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 103: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 104: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 105: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 106: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 107: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 108: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 109: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 110: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 111: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 112: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 113: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 116: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 119: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+New non-dominated solution at iteration 122: 
+  production loss = 307.568 m³/day
+  travel cost = 47531.9
+Optimization finished. Results: 
+Optimization performance:
+  Execution time: 1819 ms
+  Exit condition: Max iterations reached.
+  Dominated solutions: 1
+  Pareto solutions: 6
+Pareto front values exported to .csv file.

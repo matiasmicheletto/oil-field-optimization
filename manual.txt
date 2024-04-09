@@ -1,0 +1,52 @@
+NAME  
+   optimize  
+
+SYNOPSIS
+   optimize [PARAMS]... -p [PARAMETERS] -d [DISTANCES]  
+
+DESCRIPTION:
+   This program computes an optimal solution for the rate adjustment of an oil production field (many wells). It is assumed that the production rates of some pumpjacks must to be adjusted according to the desired total gross production.
+      - Values of the input files are comma-separated (.csv format).
+      - Columns for well parameters are max. gross, max. net and current rate. First row is ignored by file parser, so it can be used as column names.  
+      - Distance matrix has the upper triangular part, excluding zero values of the diagonal and has no header.   
+   Example for the content of a generic input file (4 oil wells):  
+         gross(m³/day),net(m³/day),rate(%)  
+         60,30,90  
+         68,35,100  
+         75,40,85  
+         72,40,250  
+   Example for the content of the distance matrix file:  
+         58.00866373016444,3.1043022374310336,31.889912617401393
+         30.720282763243702,22.055711198827343
+         85.79961869239571
+
+OPTIONS:
+   -h, --help         Display this help message.  
+   -p, --params       File name with well parameters.  
+   -d, --distances    File name with distance matrix (triangular)  
+   -g, --gross        Target production gross. Default is 10.0 m³/day. 
+   -l, --tol          Tolerance for target gross (in m³/day). Default is 10 m³/day. 
+   -t, --timeout      Optimization timeout in seconds. Default is 60 seconds.  
+   -i, --iterations   Number of iterations for the optimization algorithm.  
+   -o, --output       Output file name. Pareto front values are printed in csv format.
+
+EXAMPLES:  
+   1. optimize -p wells.csv -d distances.csv  
+      - Run the program using the default parameters.  
+
+   2. optimize -p wells.csv -d distances.csv -g 1500 -l 50 -t 120  
+      - Minimize model to reach a goal target of 1500 m³/day +/- 50 m³/day gross. Timeout after 2 minutes.  
+
+AUTHORS  
+   Code was written by Dr. Matias J. Micheletto from Sendevo Software.  
+
+REPORTING BUGS  
+   Guidelines will soon be available at <https://github.com/matiasmicheletto/oil-battery-optimization>.  
+
+COPYRIGHT  
+   Copyright   ©   2023   Free   Software   Foundation,  Inc.   License  GPLv3+:  GNU  GPL  version  3  or  later <https://gnu.org/licenses/gpl.html>.  
+   This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the  extent  permitted by law.  
+
+REFERENCES  
+   https://www.linkedin.com/pulse/how-optimize-oil-gas-assets-marlee-rose/  
+   
